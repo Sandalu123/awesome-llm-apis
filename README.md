@@ -50,6 +50,15 @@ These APIs offer powerful LLM capabilities with flexible pricing models.
 | Qwen2.5-Max | Alibaba | 1.60 | 6.40 | 32k | 8,192 | [Qwen AI](https://qwen.ai/) |
 | Qwen-Plus-0125 | Alibaba | 0.40 | 1.20 | 131k | 8,192 | [Qwen AI](https://qwen.ai/) |
 
+## API Gateways & Routers 🔗
+
+Unified access to multiple LLM providers through a single OpenAI-compatible API endpoint.
+
+| Name | Description | Key Feature | Pricing | Link |
+|------|-------------|-------------|---------|------|
+| CoderPlan | LLM API gateway with OpenAI-compatible endpoint | Access Claude, GPT, Gemini, DeepSeek via single API key | Pay-per-use | [coderplan.ai](https://coderplan.ai) |
+
+
 ## How to Choose the Right LLM Model or API? 🤔
 
 1. **Budget**: Determine if you need a free solution or if you're willing to pay for enhanced capabilities.
