@@ -50,6 +50,13 @@ These APIs offer powerful LLM capabilities with flexible pricing models.
 | Qwen2.5-Max | Alibaba | 1.60 | 6.40 | 32k | 8,192 | [Qwen AI](https://qwen.ai/) |
 | Qwen-Plus-0125 | Alibaba | 0.40 | 1.20 | 131k | 8,192 | [Qwen AI](https://qwen.ai/) |
 
+
+## Multi-model multi-protocol gateways 🌐
+
+| Name | Description | Link | Notes |
+|------|-------------|------|-------|
+| DaoXE | Multi-model multi-protocol AI API gateway: OpenAI Chat Completions, OpenAI Responses, Anthropic Messages (Claude protocol), and image-compatible endpoints. Models from the current account catalog. | [DaoXE](https://daoxe.com/) | Not available in mainland China. Examples: [DaoXE-AI](https://github.com/seven7763/DaoXE-AI) |
+
 ## How to Choose the Right LLM Model or API? 🤔
 
 1. **Budget**: Determine if you need a free solution or if you're willing to pay for enhanced capabilities.
