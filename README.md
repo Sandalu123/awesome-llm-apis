@@ -49,6 +49,7 @@ These APIs offer powerful LLM capabilities with flexible pricing models.
 | Gemini-2.0-Flash-001 | Google | 0.10 | 0.40 | 1,000k | 8,192 | [Google AI](https://ai.google.dev/) |
 | Qwen2.5-Max | Alibaba | 1.60 | 6.40 | 32k | 8,192 | [Qwen AI](https://qwen.ai/) |
 | Qwen-Plus-0125 | Alibaba | 0.40 | 1.20 | 131k | 8,192 | [Qwen AI](https://qwen.ai/) |
+| Wren R1 | WebWright | 0.40 | 1.60 | 200k | 200,000 | [WebWright](https://webwright.ai/) |
 
 ## How to Choose the Right LLM Model or API? 🤔
 
